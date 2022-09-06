@@ -14,7 +14,6 @@
 ![TikTok](https://img.shields.io/badge/lukarisima-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white(https://github.com/lukarisima))
 
 ```py
-a = ("I Love")
-n = ("Python")
-    print(a + n)
+hello = "I don't like Python"
+print(hello[0 + 8:19])
 ```
