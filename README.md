@@ -2,12 +2,9 @@
 
 
 #### M.NurFakhri 15 y.o
-> **Wait!! nothing here, beacuse i not have laptops 💻. I'll be back when I have a laptops**
+> **Wait!! nothing here, beacuse i not have laptops 💻. I'll be back when I have a laptop**
  
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/dgXpQQY/Gun-anime.gif" alt="Gun-anime" border="0"></a>
-
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gJSsJh0/images.jpg" alt="images" border="0"></a>
 
 ****learn  :**** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,6 +14,7 @@
 ![TikTok](https://img.shields.io/badge/lukarisima-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white(https://github.com/lukarisima))
 
 ```py
-hello = "I don't like Python"
-print(hello[0 + 8:19])
+a = ("I Love")
+n = ("Python")
+    print(a + n)
 ```
