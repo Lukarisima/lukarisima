@@ -14,5 +14,10 @@
 
 ****I'm also active in :****<br>
 ![@nurfakhri.id](https://img.shields.io/badge/@nurfakhri.id-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/NurFakhri-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![TikTok](https://img.shields.io/badge/lukarisima-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+![TikTok](https://img.shields.io/badge/lukarisima-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white(https://github.com/lukarisima))
 
+```py
+a = ("I Love")
+n = ("Python")
+    print(a + n)
+```
