@@ -4,7 +4,7 @@
 #### M.NurFakhri 15 y.o
 > **Wait!! nothing here, beacuse i not have laptops 💻. I'll be back when I have a laptop**
  
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/gJSsJh0/images.jpg" alt="images" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wQF2r0k/2094ad4bfa228fd2b7d0a656e30dd2cb.gif" alt="2094ad4bfa228fd2b7d0a656e30dd2cb" border="0"></a>
 
 ****learn  :**** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
