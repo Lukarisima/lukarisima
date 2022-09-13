@@ -17,3 +17,8 @@
 hello = "I don't like Python"
 print(hello[0 + 8:19])
 ```
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Lukarisima&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukarisima&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukarisima&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
